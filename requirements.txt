@@ -1,0 +1,12 @@
+matplotlib
+munch
+numpy
+pandas
+pillow
+pyyaml
+scikit-learn
+timm
+pytorch
+torchmetrics
+torchvision
+tqdm

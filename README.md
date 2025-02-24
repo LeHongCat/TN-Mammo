@@ -1,2 +1,1 @@
-# ThongNhat-Mammo
-Breast cancer screening
+Train using train.py
