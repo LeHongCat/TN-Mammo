@@ -33,9 +33,9 @@ The dataset should be organized as follows:
 
 ```
 datasets/
-└── ThongNhat/
+└── ThongNhat-Mammo/
     ├── images/
-    │   └── PATIENT_NAME/
+    │   └── ID/
     │       ├── Left - CC.jpg
     │       ├── Left - MLO.jpg
     │       ├── Right - CC.jpg
