@@ -1,10 +1,10 @@
 # ThongNhat-Mammo
 
-[<p align="center"><img src="source/ex_mammo.png" width="500"></p>](https://drive.google.com/drive/folders/1_Rr8Fe9dAKJ9iZMT2jT_8YMpp4LO-D7I?usp=sharing)
+[<p align="center"><img src="source/ex_mammo.png" width="500"></p>]()
 
 ## Description
 
-This repository provides code for validating the quality and technical validity of the ThongNhat-Mammo dataset, a mammography image collection for breast density classification. The dataset can be downloaded from [our drive](https://drive.google.com/drive/folders/1_Rr8Fe9dAKJ9iZMT2jT_8YMpp4LO-D7I?usp=sharing).
+This repository provides code for validating the quality and technical validity of the ThongNhat-Mammo dataset, a mammography image collection for breast density classification. The dataset can be downloaded from [our drive]().
 
 ## Features
 
@@ -116,4 +116,4 @@ If you use this code or dataset in your research, please cite:
 
 ## Acknowledgments
 
-We would like to thank Thong Nhat Hospital for providing the mammography data used in this research.
+We would like to thank Thong Nhat Hospital for providing the mammography data used in this research. We would love to thank AISIA Research Lab, University of Science, Vietnam National University in Ho Chi Minh City, and Tan Tao University for supporting us in experiments and research algorithms for this project. 
