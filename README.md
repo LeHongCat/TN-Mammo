@@ -1,4 +1,4 @@
-# ThongNhat-Mammo
+# TN-Mammo: A Multi-view Mammography Dataset for Breast Density Classification
 
 [<p align="center"><img src="source/ex_mammo.png" width="500"></p>]()
 
