@@ -1,4 +1,4 @@
-# TN-Mammo: A Multi-view Mammography Dataset for Breast Density Classification
+# TNMammo: A Multi-view Mammography Dataset for Breast Density Classification
 
 [<p align="center"><img src="source/ex_mammo.png" width="500"></p>]()
 
@@ -33,18 +33,29 @@ The dataset should be organized as follows:
 
 ```
 datasets/
-└── ThongNhat-Mammo/
+└── TNMammo/
     ├── images/
     │   └── ID/
-    │       ├── Left - CC.jpg
-    │       ├── Left - MLO.jpg
-    │       ├── Right - CC.jpg
-    │       └── Right - MLO.jpg
-    └── ThongNhat_labels.csv
+    │       ├── left_cc.jpg
+    │       ├── left_mlo.jpg
+    │       ├── right_cc.jpg
+    │       └── right_mlo.jpg
+    └── TNMammo_labels.csv
 ```
 
 ## Usage
+The dataset can be utilized for various machine learning and medical imaging applications, particularly in classification and diagnostic model development. Below are key considerations for usage:
 
+- Preprocessing Recommendations: Images may require normalization and resizing to fit specific model input requirements.
+- Potential Applications:
+    + Supervised Learning: The dataset is well-suited for classification tasks where
+      models learn to predict labels based on image features.
+    + Feature Extraction: Researchers can extract and analyze specific features related to medical conditions.
+    + Multi-View Analysis: Since each record contains four views, multi-view fusion techniques can be explored for improved accuracy.
+- Considerations:
+    + Ensure proper data splitting (e.g., train/validation/test sets) to avoid data leakage.
+    + The dataset should be used responsibly in accordance with ethical and legal guidelines, especially for medical applications.
+      
 ### Data Preprocessing
 
 To preprocess the mammogram images:
